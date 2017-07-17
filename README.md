@@ -1,2 +1,2 @@
-# RecyclerView
-Repository to demonstrate extending the RecyclerView
+# LVS.Training.Android.RecyclerView.Staggered
+Training project showing how to use GridLayout and StaggeredLayout in RecyclerView
